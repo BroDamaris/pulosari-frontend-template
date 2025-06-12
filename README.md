@@ -1,3 +1,6 @@
+# NANTI KALIAN KALO UDAH CLONE KETIK INI YA!!
+npm install
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
